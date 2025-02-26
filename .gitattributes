@@ -1,2 +1,5 @@
 Drivers/** linguist-vendored
 cmake/** linguist-vendored
+
+startup_stm32l432xx.s linguist-vendored
+stm32l432kbux_flash.ld linguist-vendored
